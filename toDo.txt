@@ -1,0 +1,5 @@
+- Terminar seguidor de linea 
+. probar con baterias
+- agregar ultrasonico
+- adherir cable mas pequeño al arduino
+- garra(daia)
